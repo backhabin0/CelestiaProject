@@ -48,6 +48,10 @@
 		{
 			"Name": "ApexDestruction",
 			"Enabled": true
+		},
+		{
+			"Name": "AlembicHairImporter",
+			"Enabled": true
 		}
 	]
 }
